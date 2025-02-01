@@ -14,7 +14,7 @@ Screenshots
 
 You can visit the [collection of screenshots](https://l.top4top.io/p_3319d8tcu2.png) demonstrating some of the features on the wiki.
 
-Installation
+Installation  ![Screenshot](https://l.top4top.io/p_3319d8tcu2.png)
 ----
 
 You can download the latest tarball by clicking [here](https://github.com/sqlmapproject/sqlmap/tarball/master) or latest zipball by clicking [here](https://github.com/sqlmapproject/sqlmap/zipball/master).
